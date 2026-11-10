@@ -1,5 +1,11 @@
 
+---
+layout: default
+---
+
 # DSC180A Methodology Assignment 4
+
+**Name:** Sumedha Rai
 
 **Name:** Sumedha Rai
 
